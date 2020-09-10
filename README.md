@@ -1,5 +1,4 @@
-Greate Game...
-
+Game of chance - worktime 2h
 
 Hero stats:
 - Health: 70 - 100 
