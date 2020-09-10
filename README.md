@@ -22,7 +22,6 @@ Bad-Guy stats:
 - Speed: 40 – 60 
 - Luck: 25% - 40%
 
-
 Game rules:
 You’ll have to simulate a battle between the hero and a nefarious villain, either at command line or using a web browser.
 On every battle, the hero and the villain must be initialized with random properties, within their ranges. 
@@ -31,8 +30,7 @@ The first attack is done by the player with the higher speed.
 If both players have the same speed, then the attack is carried on by the player with the highest luck. 
 After an attack, the players switch roles: the attacker now defends and the defender now attacks.
 
-The damage done by the attacker is calculated with the following formula: 
-`Damage = Attacker strength – Defender defence`
+The damage done by the attacker is calculated with the following formula: `Damage = Attacker strength – Defender defence`
 
 The damage is subtracted from the defender’s health. 
 An attacker can miss their hit and do no damage if the defender gets lucky that turn.
