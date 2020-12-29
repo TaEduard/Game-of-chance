@@ -1,4 +1,7 @@
-Game of chance - worktime 2h
+# Game of chance 
+### worktime 2h
+### Golang Coding Demo.
+
 
 Hero stats:
 - Health: 70 - 100 
